@@ -14,15 +14,15 @@ Custom Properties for the examples.
 
 ```css
 :root {
- --all-color-white: #hex,
- --all-color-grey-400: #hex,
- --all-color-grey-200: #hex,
- --all-color-grey-100: #hex,
- --all-color-grey-300: #hex,
- --all-color-red-100: #hex,
- --all-color-red-400: #hex,
- --all-color-red-300: #hex,
- --all-color-red-200: #hex,
+ --all-color-white: #hex;
+ --all-color-grey-400: #hex;
+ --all-color-grey-200: #hex;
+ --all-color-grey-100: #hex;
+ --all-color-grey-300: #hex;
+ --all-color-red-100: #hex;
+ --all-color-red-400: #hex;
+ --all-color-red-300: #hex;
+ --all-color-red-200: #hex;
 }
 ```
 
