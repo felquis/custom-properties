@@ -1,8 +1,9 @@
 {
   "name": "custom-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helper to get CSS Custom Properties defined in the :root rule",
   "main": "lib/index.js",
+  "files": ["lib/index.js", "README.md"],
   "repository": {
     "url": "git@github.com:felquis/custom-properties.git",
     "type": "git"
